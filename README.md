@@ -1,2 +1,6 @@
-# project_3
-class project challenge
+# space Exploration
+# table of content
+# team members
+# inspiration
+# Introduction
+# 
